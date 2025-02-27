@@ -1,0 +1,5 @@
+@use '_variables' as v;
+
+h1 {
+    color: v.$color-primary;
+}

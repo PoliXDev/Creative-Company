@@ -1,1 +1,38 @@
-$color-primary: red;
+// Colores principales
+$color-primary: #212225;
+$color-secondary: #515DEF;
+$color-accent: #4aff6b;
+
+// Colores neutros
+$color-dark: #222;
+$color-text: #333;
+$color-text-light: #666;
+$color-bg-light: #f9f9f9;
+$color-white: #fff;
+
+// Tipografía
+$font-primary: 'Poppins', sans-serif;
+$font-size-base: 16px;
+$font-size-h1: 3rem;
+$font-size-h2: 2rem;
+$font-size-h3: 1.5rem;
+
+// Espaciado
+$spacing-xs: 5px;
+$spacing-sm: 10px;
+$spacing-md: 20px;
+$spacing-lg: 30px;
+$spacing-xl: 40px;
+$spacing-xxl: 80px;
+
+// Bordes y sombras
+$border-radius: 5px;
+$border-radius-lg: 10px;
+$box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+$box-shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.1);
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
